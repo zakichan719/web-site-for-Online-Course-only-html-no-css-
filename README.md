@@ -1,6 +1,3 @@
 # web-site-for-Online-Course-only-html-no-css-
-## for contact us , i am use google sheet to sent email.
-## host in google drive https://drv.tw/
-## original link https://ogrfd1telimvc1aruirggg-on.drv.tw/learn%20with%20zech/
+## for contact us , i am use api google sheet to sent info of contact us in my email.
 
-## my web site :  http://tiny.cc/learnwithzech
