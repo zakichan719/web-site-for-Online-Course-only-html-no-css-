@@ -4,4 +4,4 @@
   demo => https://zakichan719.github.io/web-site-online-course-just-html5/
 
 ## How to send an email from a static HTML page with Google sheets ?
-  method => https://blog.h-educate.com/how-to-send-an-email-in-a-static-html-page-using-google-sheets-scripts/
+  method => https://github.com/dwyl/learn-to-send-email-via-google-script-html-no-server/blob/master/README.md
